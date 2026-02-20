@@ -4,3 +4,4 @@
 - [Course website](https://www.techwithkunal.com/courses/dsa)
 - [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments) (solutions can be found on LeetCode)
 - nischal made this change
+Update readme
